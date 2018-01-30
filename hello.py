@@ -12,3 +12,5 @@ print("My favorite type of music is alternative")
 print("My astrological sign is gemini")
 print("I am five feet tall with an extra inch")
 print("I'm afraid of heights and failure")
+
+print("Hi Shaelyn!!")
