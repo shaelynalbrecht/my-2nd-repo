@@ -14,3 +14,4 @@ print("I am five feet tall with an extra inch")
 print("I'm afraid of heights and failure")
 
 print("Hi Shaelyn!!")
+print("omg hi kelsey whats up???")
